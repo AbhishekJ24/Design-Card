@@ -37,14 +37,14 @@ article{
     margin-left: 0.6em;
     margin-top: 10px;
     height:193px;
-    overflow:auto;
+    overflow: auto;
     color:rgb(139, 138, 138);
 }
 .readmore{
     color: rgb(103,84,73);
     background-color: rgb(174, 165, 160);
-    margin-left: 35%;
-    width: 100px;
+    margin-left: 75px;
+    width: max-content;
     height:40px;
     margin-top: 10px;
 }
