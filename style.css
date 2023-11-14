@@ -1,11 +1,17 @@
 *{
     font-family: 'Roboto';
 }
+body{
+    background-color: rgb(174, 165, 160);
+    display: flex;
+}
 section{
+    background-color: white;
     padding: 10px;
     width: 335px;
     border: 2px solid rgb(219, 218, 218);
     border-radius: 20px;
+    margin-right: 20px;
 }
 img{
     height: 500px;
@@ -47,6 +53,7 @@ article{
     width: max-content;
     height:40px;
     margin-top: 10px;
+    border:none;
 }
 .readmore:hover{
     background-color: rgb(219, 218, 218);
