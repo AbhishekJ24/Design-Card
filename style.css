@@ -4,6 +4,7 @@
 body{
     background-color: rgb(174, 165, 160);
     display: flex;
+    flex-wrap: wrap;
 }
 section{
     background-color: white;
